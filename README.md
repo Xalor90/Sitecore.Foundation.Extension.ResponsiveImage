@@ -1,6 +1,9 @@
-﻿# Responsive Image Extension for Sitecore 9
+# Responsive Image Extension for Sitecore 9
 
 This extension will allow you to remove inline width and height properties from images supplied by Sitecore.
+
+## License
+[MIT](/LICENSE.md)
 
 ## How to install:
 - To begin, clone this repo into an existing Sitecore 9, Helix-based Solution under `/src/Foundation/Extension/ResponsiveImage`.
