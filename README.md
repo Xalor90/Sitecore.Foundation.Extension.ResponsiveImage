@@ -18,7 +18,7 @@ This extension will allow you to remove inline width and height properties from 
 ```
 
 ## Attribution:
-[Richard Seal](https://sitecore.stackexchange.com/a/1555/3838)
-[mikkelhm](https://www.mikkelhm.dk/archive/removing-width-and-height-tags-from-fieldrenderer-and-scimage/)
+- [Richard Seal](https://sitecore.stackexchange.com/a/1555/3838)
+- [mikkelhm](https://www.mikkelhm.dk/archive/removing-width-and-height-tags-from-fieldrenderer-and-scimage/)
 
 I originally found the Sitecore StackExchange post by Richard Seal (link above) while looking for a way to remove the inline `width` and `height` values on images produced by Sitecore's HtmlHelper in Razor. Since I use this in pretty much every Sitecore instance, I decided to make it into a module that can be easily added to any Helix-based Sitecore solution.
